@@ -1,0 +1,21 @@
+.box-a {
+  background-color: yellow;
+  padding: 30px;
+  border: 5px solid black;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 150px;
+  box-sizing: border-box;
+}
+
+.box-b {
+  background-color: green;
+  width: 400px;
+  height: 250px;
+}
+
+.box-c {
+  background-color: red;
+  width: 400px;
+  height: 250px;
+}
